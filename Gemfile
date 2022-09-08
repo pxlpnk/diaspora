@@ -73,7 +73,7 @@ gem 'strong_parameters'
 
 # Services
 
-gem 'omniauth',          '1.1.4'
+gem 'omniauth',          '1.4.2'
 gem 'omniauth-facebook', '1.4.1'
 gem 'omniauth-tumblr',   '1.1'
 gem 'omniauth-twitter',  '1.0.0'
