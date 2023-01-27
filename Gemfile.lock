@@ -166,10 +166,10 @@ GEM
       execjs (>= 1.2.9)
       sprockets (>= 2.0.3)
       tilt
-    hashie (2.0.5)
+    hashie (2.1.2)
     hike (1.2.3)
     http_accept_language (1.0.2)
-    httpauth (0.2.0)
+    httpauth (0.2.1)
     i18n (0.6.1)
     i18n-inflector (2.6.7)
       i18n (>= 0.4.1)
@@ -191,7 +191,7 @@ GEM
       jquery-rails
       railties (>= 3.1.0)
     json (1.8.0)
-    jwt (0.1.8)
+    jwt (0.1.13)
       multi_json (>= 1.5)
     kaminari (0.14.1)
       actionpack (>= 3.0.0)
@@ -216,7 +216,7 @@ GEM
     mobile-fu (1.2.1)
       rack-mobile-detect
       rails
-    multi_json (1.7.8)
+    multi_json (1.7.9)
     multi_test (0.0.2)
     multipart-post (1.2.0)
     mysql2 (0.3.13)
@@ -236,7 +236,7 @@ GEM
     omniauth (1.1.4)
       hashie (>= 1.2, < 3)
       rack
-    omniauth-facebook (1.4.1)
+    omniauth-facebook (1.5.1)
       omniauth-oauth2 (~> 1.1.0)
     omniauth-oauth (1.0.1)
       oauth
@@ -260,7 +260,7 @@ GEM
       coderay (~> 1.0.5)
       method_source (~> 0.8)
       slop (~> 3.4)
-    rack (1.4.5)
+    rack (1.4.7)
     rack-cache (1.2)
       rack (>= 0.4)
     rack-cors (0.2.8)
@@ -467,7 +467,7 @@ DEPENDENCIES
   mysql2 (= 0.3.13)
   nokogiri (= 1.6.0)
   omniauth (= 1.1.4)
-  omniauth-facebook (= 1.4.1)
+  omniauth-facebook (= 1.5.1)
   omniauth-tumblr (= 1.1)
   omniauth-twitter (= 1.0.0)
   omniauth-wordpress (= 0.2.0)
