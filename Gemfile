@@ -112,7 +112,7 @@ group :assets do
 
   # Compression
 
-  gem 'uglifier', '2.1.2'
+  gem 'uglifier', '2.7.2'
 
   # JavaScript
 
