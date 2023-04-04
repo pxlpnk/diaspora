@@ -64,7 +64,7 @@ gem 'rails_autolink',   '1.1.0'
 gem 'redcarpet',        '3.0.0'
 gem 'roxml',            '3.1.6'
 gem 'ruby-oembed',      '0.8.8'
-gem 'opengraph_parser', '0.2.3'
+gem 'opengraph_parser', '0.2.5'
 
 
 # Please remove when migrating to Rails 4
