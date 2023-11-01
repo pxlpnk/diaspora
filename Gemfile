@@ -159,7 +159,7 @@ end
 group :development do
   # Comparison images
 
-  gem 'rmagick', '2.13.2', :require => false
+  gem 'rmagick', '5.3.0', :require => false
 
   # Automatic test runs
 
